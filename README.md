@@ -1,4 +1,4 @@
-[live server](http://127.0.0.1:5501/index.html)
+[live server](https://srdtenoptopzek-8080.ws4.app/)
 
 # 🍽️ FoodVerse Overview
 
